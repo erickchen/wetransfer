@@ -1,0 +1,98 @@
+body{
+	width:100%;
+	background: #f6f6f6!important;
+}
+
+.navbar nav ul li{
+	display: inline-block;
+}
+
+.navbar nav ul li ul li{
+	display: inline-block;
+}
+
+.navbar .flag{
+	width:80%;
+	position: relative;
+	left:77%;
+}
+
+.navbar .flag img{
+	width:100px;
+}
+
+
+.navbar .icons{
+	width:100%;
+	position: absolute;
+	top:75%;
+	left:56%;
+}
+
+.section-first ul li{
+	display: inline-block;
+}
+
+.section-first .menu-bar-right img{
+	width:12%;
+	margin:3px 10px;
+}
+
+.section-first .menu-bar-right h5{
+	width:100%;
+	font-weight: bold;
+	margin-left:40px;
+}
+
+.section-first .menu-bar-right {
+	width:110%;
+}
+
+.section-last ul li{
+	display: inline-block;
+	width:49%;
+}
+
+.section-last .li-left .about img{
+	width:107%;
+	position: relative;
+}
+
+.section-last .li-left .principal img{
+	width: 100%;
+    position: relative;
+    top: 35px;
+}
+
+.section-last .li-left .facebook img{
+	left: 65px;
+    width: 70%;
+    position: relative;
+    top: 125px;
+}
+
+.section-last .li-right .programs img{
+	width: 77%;
+    position: relative;
+    top: 85px;
+    left: 15%;
+}
+
+.section-last .li-right .gallery img{
+	right: 55px;
+    width: 100%;
+    top: 25px;
+    position: relative;
+}
+
+.section-last .li-right .contacts img{
+	width: 100%;
+    top: 70px;
+    position: relative;
+}
+
+footer{
+	position: relative;
+	top: 100px;
+}
+
